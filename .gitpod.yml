@@ -4,3 +4,7 @@ tasks:
       remove me entirely."
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - Dart-Code.flutter@3.10.1:GThGWBTW94fl6tmZ1DxSSw==
